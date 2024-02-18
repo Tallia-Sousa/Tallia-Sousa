@@ -4,7 +4,7 @@
 Atualmente, estou focada em aprender Java enquanto curso Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia do Piauí. Estou dedicando meu tempo ao estudo profundo dessa linguagem e estou entusiasmado em aplicar esse conhecimento em projetos futuros. Tenho grande interesse em banco de dados e estou sempre em busca de oportunidades para aprender e contribuir para projetos interessantes.
 
 ## Tecnologias Utilizadas
-- Linguagens :
+- Linguagens:
 
   ![Java](https://img.shields.io/badge/-Java-red)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
@@ -12,19 +12,17 @@ Atualmente, estou focada em aprender Java enquanto curso Análise e Desenvolvime
 - Banco de Dados:
 
   ![MySQL](https://img.shields.io/badge/-MySQL-orange)
-- 
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue)
 
 - Ferramentas de Controle de Versão:
 
   ![Git](https://img.shields.io/badge/-Git-lightgrey)
 
+## Github Stats
+[![Tallia-Sousa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tallia-Sousa)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-## Contato
-[![GitHub](https://img.shields.io/badge/-Git-lightgrey)](https://github.com/Tallia-Sousa/)
-
+# Contato
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="30"/>](https://github.com/Tallia-Sousa/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/hilizangela-tallia-de-sousa-dos-reis-ab483429b/)
-
 [![Instagram](https://img.shields.io/badge/-Instagram-pink)](https://www.instagram.com/talia_smoak/)

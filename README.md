@@ -4,31 +4,25 @@
 Atualmente, estou focado em aprender Java enquanto curso Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia do Piauí. Estou dedicando meu tempo ao estudo profundo dessa linguagem e estou entusiasmado em aplicar esse conhecimento em projetos futuros. Tenho grande interesse em banco de dados e estou sempre em busca de oportunidades para aprender e contribuir para projetos interessantes.
 
 ## Tecnologias
-- Linguagens de Programação: Java e JavaScript
-- Banco de Dados: MySQL e Postgres
-- Ferramentas de Controle de Versão: Git, GitHub
+- Linguagens de Programação:
+- - ![Java](https://img.shields.io/badge/-Java-red)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+- Banco de Dados:
+  - ![MySQL](https://img.shields.io/badge/-MySQL-orange)
+  - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue)
+- Ferramentas de Controle de Versão:
+  - ![Git](https://img.shields.io/badge/-Git-lightgrey)
+  - ![GitHub](https://img.shields.io/badge/-GitHub-black)
 
-## Projeto Mais Recente
+## ![CodeRise](https://img.shields.io/badge/CodeRise-Último%20Projeto-blue)
 
 - [CodeRise](https://github.com/Tallia-Sousa/CodeRise_Backend)
 
+
 ## Contato
-- GitHub: [Hilizângela Tallia](https://github.com/Tallia-Sousa)
-- LinkedIn: [Hilizângela Tallia](https://www.linkedin.com/in/hilizangela-tallia-de-sousa-dos-reis-ab483429b/)
-- Instagram: [Hilizângela Tallia](https://www.instagram.com/talia_smoak/)
+- GitHub: [seu_username](https://github.com/seu_username)
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](link_para_seu_perfil_do_LinkedIn)
+- Instagram: [![Instagram](https://img.shields.io/badge/-Instagram-pink)](link_para_seu_perfil_do_Instagram)
 
 
-!--
-**Tallia-Sousa/Tallia-Sousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

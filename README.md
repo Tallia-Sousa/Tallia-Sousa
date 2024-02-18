@@ -2,7 +2,7 @@
 
 ## Olá, Me chamo Hilizângela
 
-<img src="Tallia-Sousa/img/Programmer-pana.svg" alt="Ilustração de uma programadora" width="150" align="right">
+![](Tallia-Sousa/img/Programmer-pana.svg){:width="150px"}
 
 - Atualmente, estou focada em aprender Java enquanto curso Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia do Piauí. Estou dedicando meu tempo ao estudo profundo dessa linguagem e estou entusiasmada em aplicar esse conhecimento em projetos futuros. Tenho grande interesse em banco de dados e estou sempre em busca de oportunidades para aprender e contribuir para projetos interessantes.
 

@@ -2,14 +2,14 @@
 
 ## Olá, Me chamo Hilizângela
 
-<img src="img/Programmer-pana.svg" alt="Ilustração de uma programadora" width="100" align="left">
+ <img src="img/Programmer-pana.svg" alt="Ilustração de uma programadora" width="150" align="right">
 
 
-- Atualmente, estou focada em aprender Java enquanto curso Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia do Piauí. Estou dedicando meu tempo ao estudo profundo dessa linguagem e estou entusiasmada em aplicar esse conhecimento em projetos futuros. Tenho grande interesse em banco de dados e estou sempre em busca de oportunidades para aprender e contribuir para projetos interessantes.
+- Atualmente, estou focada em aprender Java para backend enquanto curso Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia do Piauí. Estou dedicando meu tempo a essa linguagem  para aplicar esse conhecimento em projetos futuros. Tenho grande interesse em banco de dados e estou sempre em busca de oportunidades para aprender e contribuir para projetos interessantes.
 
 
 ## Tecnologias Utilizadas
-- Linguagens://///////////////
+- Linguagens:
 
   ![Java](https://img.shields.io/badge/-Java-red)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)

@@ -21,8 +21,9 @@ Atualmente, estou focada em aprender Java enquanto curso Análise e Desenvolvime
 ## Github Stats
 [![Tallia-Sousa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tallia-Sousa)](https://github.com/anuraghazra/github-readme-stats)
 
-
+## Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tallia-Sousa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 # Contato
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="30"/>](https://github.com/Tallia-Sousa/)
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/hilizangela-tallia-de-sousa-dos-reis-ab483429b/)
 [![Instagram](https://img.shields.io/badge/-Instagram-pink)](https://www.instagram.com/talia_smoak/)

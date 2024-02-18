@@ -5,14 +5,14 @@ Atualmente, estou focado em aprender Java enquanto curso Análise e Desenvolvime
 
 ## Tecnologias
 - Linguagens de Programação:
-- - ![Java](https://img.shields.io/badge/-Java-red)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  ![Java](https://img.shields.io/badge/-Java-red)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
 - Banco de Dados:
-  - ![MySQL](https://img.shields.io/badge/-MySQL-orange)
-  - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue)
+  ![MySQL](https://img.shields.io/badge/-MySQL-orange)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue)
 - Ferramentas de Controle de Versão:
-  - ![Git](https://img.shields.io/badge/-Git-lightgrey)
-  - ![GitHub](https://img.shields.io/badge/-GitHub-black)
+  ![Git](https://img.shields.io/badge/-Git-lightgrey)
+  ![GitHub](https://img.shields.io/badge/-GitHub-black)
 
 ## ![CodeRise](https://img.shields.io/badge/CodeRise-Último%20Projeto-blue)
 
@@ -20,9 +20,9 @@ Atualmente, estou focado em aprender Java enquanto curso Análise e Desenvolvime
 
 
 ## Contato
-- GitHub: [seu_username](https://github.com/seu_username)
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](link_para_seu_perfil_do_LinkedIn)
-- Instagram: [![Instagram](https://img.shields.io/badge/-Instagram-pink)](link_para_seu_perfil_do_Instagram)
+[(https://img.shields.io/badge/-Git-lightgrey)](https://github.com/Tallia-Sousa/)
+[(https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/hilizangela-tallia-de-sousa-dos-reis-ab483429b/)
+[(https://img.shields.io/badge/-Instagram-pink)](https://www.instagram.com/talia_smoak/)
 
 
 

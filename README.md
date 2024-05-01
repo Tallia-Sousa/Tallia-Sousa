@@ -17,7 +17,7 @@ Cursando análise e desenvolvimento de sistemas.
 
  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black)
 
-### Ferramentas de Controle de Versão:
+## Ferramentas de Controle de Versão:
 ![Git](https://img.shields.io/badge/-Git-black)
 
 ![Github](https://img.shields.io/badge/-Github-black)
@@ -28,7 +28,7 @@ Cursando análise e desenvolvimento de sistemas.
 
 
 
-# Contato
+## Contato
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black)](https://www.linkedin.com/in/hilizangela-tallia-de-sousa-dos-reis-ab483429b/)
 

@@ -30,7 +30,7 @@ Cursando análise e desenvolvimento de sistemas.
 
 # Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black)](https://www.linkedin.com/in/hilizangela-tallia-de-sousa-dos-reis-ab483429b/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-black)](https://www.linkedin.com/in/hilizangela-tallia-de-sousa-dos-reis-ab483429b/)
 
 [![Email](https://img.shields.io/badge/-Email-black)](mailto:capic.2022118tads0218@aluno.ifpi.edu.br)
 

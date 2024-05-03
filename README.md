@@ -28,8 +28,7 @@ Cursando análise e desenvolvimento de sistemas. Meu foco principal é o desenvo
 
 
 ## Conecte-se comigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=ffffff)](https://www.linkedin.com/in/hilizangela-tallia-de-sousa-dos-reis-ab483429b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/hilizangela-tallia-de-sousa-dos-reis-ab483429b/)
 
 [![Email](https://img.shields.io/badge/-Email-black)](mailto:capic.2022118tads0218@aluno.ifpi.edu.br)
 

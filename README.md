@@ -17,7 +17,7 @@ Cursando análise e desenvolvimento de sistemas. Meu foco principal é o desenvo
  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 
 ## Ferramentas de Controle de Versão:
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-100000?style=for-the-badge&logo=git&logoColor=white)
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tallia-Sousa)
 

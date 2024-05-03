@@ -14,7 +14,7 @@ Cursando análise e desenvolvimento de sistemas. Meu foco principal é o desenvo
 
  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+ ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00000F?style=for-the-badge&logo=postgresql)
 
 ## Ferramentas de Controle de Versão:
 ![Git](https://img.shields.io/badge/GIT-100000?style=for-the-badge&logo=git&logoColor=white)

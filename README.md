@@ -1,6 +1,6 @@
 
 
-#  [<img src="./img/Programmer-pana.svg" width="30" style="float:left"/>](https://github.com/Tallia-Sousa) Hilizângela TalliaHilizângela Tallia 
+#  [<img src="./img/Programmer-pana.svg" width="30" style="float:left"/>](https://github.com/Tallia-Sousa) Hilizângela Tallia
 
 Cursando análise e desenvolvimento de sistemas. Meu foco principal é o desenvolvimento backend utilizando a linguagem Java.
 
